@@ -1,0 +1,6 @@
+name: BlockItems
+version: '1.0-SNAPSHOT'
+main: de.joel.blockItems.BlockItems
+api-version: '1.21'
+authors: [ 6tea9ine ]
+description: Block OP Items
